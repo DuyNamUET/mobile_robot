@@ -1,5 +1,5 @@
 function L = params_bicycle()
-%PARAMETERS
+% PARAMETERS
 L = 1; % wheel base (m)
 end
 
