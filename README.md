@@ -1,6 +1,6 @@
 # Mobile Robot Simulation using MATLAB Simulink
 MATLAB version: 2016a <br>
-The note about equation and theory represented in [RoboticsVisionAndControl](https://github.com/DuyNamUET/RoboticsVisionAndControl) (Chapter 4)
+The note about equation and theory was represented in [RoboticsVisionAndControl](https://github.com/DuyNamUET/RoboticsVisionAndControl) (Chapter 4)
 
 ## Files Structure
 +-- params_bicycle: *The parameters of Mobile Robot type Bicycle* <br>
